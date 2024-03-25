@@ -1,4 +1,3 @@
 document.addEventListener("DOMContentLoaded", function(){
-	console.log("DOM load success");
+	document.body.innertext("DOM load success");
 });
-
